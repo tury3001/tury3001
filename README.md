@@ -20,8 +20,7 @@ I worked as a senior developer 👍, tech lead 👍, project leader 👍 and pro
 I work as a freelancer 👨‍💻. So if you have a problem, if no one else can help, and if you can find me, maybe you can hire... me.
 
 ## Contact me
-I'm on Twitter (or should I say X?) 
-[Twitter profile](https://twitter.com/aadeluca_)
+I'm on [Twitter](https://twitter.com/aadeluca_) (or should I say X?) 
 
 ## Other staff about me
 - ⚽ I'm a Boca Juniors fan.
