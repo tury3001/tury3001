@@ -9,6 +9,7 @@ I started coding with BASIC and Assembler when I was at school 👦. Then, I con
 At the university I discovered strange and new technologies and finally I arrived to the web development world 💪.
 
 Since then I've been working mostly with PHP ✨ and its ecosystem (WordPress, Zend Framework and Laravel), but in the last years I set aside PHP and moved to Node.js ✨ and all the JavaScript world 🌏.
+
 Even though I consider myself a back-end developer 🧌, I like to code in front-end technologies too 👨‍🎨. Nowadays I enojoy coding in React and Vue.js. Many of my repositories in GitHub are front-end projects.
 
 Currently I continue learning 📚 about JavaScript and all its ecosystem focusing in Node.js.
