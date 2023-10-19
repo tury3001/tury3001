@@ -10,7 +10,7 @@ At the university I discovered strange and new technologies and finally I arrive
 
 Since then I've been working mostly with PHP ✨ and its ecosystem (WordPress, Zend Framework and Laravel), but in the last years I set aside PHP and moved to Node.js ✨ and all the JavaScript world 🌏.
 
-Even though I consider myself a back-end developer 🧌, I like to code in front-end technologies too 👨‍🎨. Nowadays I enojoy coding in React and Vue.js. Many of my repositories in GitHub are front-end projects.
+Even though I consider myself a back-end developer 🧌, I like to code in front-end technologies too 👨‍🎨. Nowadays I enjoy coding in React and Vue.js. Many of my repositories in GitHub are front-end projects.
 
 Currently I continue learning 📚 about JavaScript and all its ecosystem focusing in Node.js.
 
