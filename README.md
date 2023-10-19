@@ -2,7 +2,7 @@
 
 👋 My name is Alejandro and I'm a web developer. I have been working in programming for 20 years.
 
-## Programming history
+## Programming
 
 I started coding with BASIC and Assembler when I was at school 👦. Then, I continued learning to code in C.
 
@@ -14,10 +14,10 @@ Even though I consider myself a back-end developer 🧌, I like to code in front
 
 Currently I continue learning 📚 about JavaScript and all its ecosystem focusing in Node.js.
 
-## Job history
+## Jobs
 I worked as a senior developer 👍, tech lead 👍, project leader 👍 and project manager 🤮. Yeah, I didn't like that last role. The thing is I like to be close to my team and help them building apps contributing with my technical knowledge 🧠.
 
-## My job now
+## Current job
 I work as a freelancer 👨‍💻. So if you have a problem, if no one else can help, and if you can find me, maybe you can hire... me.
 
 ## Contact me
