@@ -24,9 +24,9 @@ I'm on Twitter (or should I say X?)
 [Twitter profile](https://twitter.com/aadeluca_)
 
 ## Other staff about me
-⚽ I'm a Boca Juniors fan.
-✍️ I like to write and I have three blogs but they are in spanish.
-☕ I like good coffee.
-📺 I love The Simpsons and I'm always saying quotes from the TV show.
-🇦🇷 I'm argentinean but I'm currently living in Uruguay 🇺🇾 and I've lived in The Netherlands 🇳🇱.
-❤️ I'm married to the most beautiful woman in the world.
+- ⚽ I'm a Boca Juniors fan.
+- ✍️ I like to write and I have three blogs but they are in spanish.
+- ☕ I like good coffee.
+- 📺 I love The Simpsons and I'm always saying quotes from the TV show.
+- 🇦🇷 I'm argentinean but I'm currently living in Uruguay 🇺🇾 and I've lived in The Netherlands 🇳🇱.
+- ❤️ I'm married to the most beautiful woman in the world.
