@@ -23,7 +23,7 @@ I work as a freelancer 👨‍💻. So if you have a problem, if no one else can
 ## Contact me
 I'm on [Twitter](https://twitter.com/aadeluca_) (or should I say X?) 
 
-## Other staff about me
+## Other things about me
 - ⚽ I'm a Boca Juniors fan.
 - ✍️ I like to write and I have three blogs but they are in spanish.
 - ☕ I like good coffee.
