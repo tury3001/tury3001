@@ -1,6 +1,6 @@
 ### About me
 
-👋 My name is Alejandro and I'm a web developer. I have been working in programming for 20 years.
+👋 My name is Alejandro and I'm a web developer. I was born in Buenos Aires, Argentina and I've been working in programming for 20 years.
 
 ## Programming
 
