@@ -25,7 +25,7 @@ I'm on [Twitter](https://twitter.com/aadeluca_) (or should I say X?)
 
 ## Other things about me
 - ⚽ I'm a Boca Juniors fan.
-- ✍️ I like to write and I have three blogs but they are in spanish.
+- ✍️ I like to write and I have three blogs. Even though I'm confident with my english level, I prefer to write in spanish.
 - ☕ I like good coffee.
 - 📺 I love The Simpsons and I'm always saying quotes from the TV show.
 - 🇦🇷 I'm argentinean but I'm currently living in Uruguay 🇺🇾 and I've lived in The Netherlands 🇳🇱.
