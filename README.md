@@ -6,9 +6,9 @@
 
 I started coding with BASIC and Assembler when I was at school 👦. Then, I continued learning to code in C.
 
-At the university I discovered strange and new technologies and finally I arrived to the web development world 💪.
+At the university I discovered a wide range of technologies like Pascal, Java, C#, C++ and Prolog among others. But before that I'd already been researched and tested web programming languages and frameworks 💪. That was when I decided to be a web developer.
 
-Since then I've been working mostly with PHP ✨ and its ecosystem (WordPress, Zend Framework and Laravel), but in the last years I set aside PHP and moved to Node.js ✨ and all the JavaScript world 🌏.
+Since then I've been working mostly with PHP ✨ and its ecosystem (WordPress, Zend Framework, Laravel, OpenCart and PrestaShop), but in the last years I set aside PHP and moved to Node.js ✨ and all the JavaScript world 🌏.
 
 Even though I consider myself a back-end developer 🧌, I like to code in front-end technologies too 👨‍🎨. Nowadays I enjoy coding in React and Vue.js. Many of my repositories in GitHub are front-end projects.
 
