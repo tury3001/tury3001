@@ -6,7 +6,7 @@
 
 I started coding with BASIC and Assembler when I was at school 👦. Then, I continued learning to code in C.
 
-At the university I discovered a wide range of technologies like Pascal, Java, C#, C++ and Prolog among others. But before that I'd already been researched and tested web programming languages and frameworks 💪. That was when I decided to be a web developer.
+At the university I discovered a wide range of technologies like Pascal, Java, C#, C++ and Prolog among others. But before that I already had been researched and tested web programming languages and frameworks 💪. That was when I decided to be a web developer.
 
 Since then I've been working mostly with PHP ✨ and its ecosystem (WordPress, Zend Framework, Laravel, OpenCart and PrestaShop), but in the last years I set aside PHP and moved to Node.js ✨ and all the JavaScript world 🌏.
 
