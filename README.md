@@ -15,7 +15,7 @@ Even though I consider myself a back-end developer 🧌, I like to code in front
 Currently I continue learning 📚 about JavaScript and all its ecosystem focusing in Node.js.
 
 ## Jobs
-I worked as a senior developer 👍, tech lead 👍, project leader 👍 and project manager 🤮. Yeah, I didn't like that last role. The thing is I like to be close to my team and help them building apps contributing with my technical knowledge 🧠.
+I worked as a senior developer, tech lead, project leader and project manager. Even though I can manage projects I rather prefer to be close to my team and help them building apps contributing with my technical knowledge 🧠.
 
 ## Current job
 I work as a freelancer 👨‍💻. So if you have a problem, if no one else can help, and if you can find me, maybe you can hire... me.
