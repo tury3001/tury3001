@@ -20,6 +20,10 @@ I worked as a senior developer, tech lead, project leader and project manager. E
 ## Current job
 I work as a freelancer 👨‍💻. So if you have a problem, if no one else can help, and if you can find me, maybe you can hire... me.
 
+## My last blog post about programming
+[Reseña del libro Node.js Design Patterns, de Casciaro y Mammino](https://link-url-here.org](https://cronicasfreelancer.com/2024/03/26/node-js-design-patterns-resena/)
+
+
 ## Contact me
 I'm on [Twitter](https://twitter.com/aadeluca_) (or should I say X?) 
 
