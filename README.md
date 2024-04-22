@@ -21,7 +21,9 @@ I worked as a senior developer, tech lead, project leader and project manager. E
 I work as a freelancer 👨‍💻. So if you have a problem, if no one else can help, and if you can find me, maybe you can hire... me.
 
 ## My last blog post about programming
-[Reseña del libro Node.js Design Patterns, de Casciaro y Mammino](https://link-url-here.org](https://cronicasfreelancer.com/2024/03/26/node-js-design-patterns-resena/)
+- [Reseña del libro Node.js Design Patterns, de Casciaro y Mammino](https://cronicasfreelancer.com/2024/03/26/node-js-design-patterns-resena/)
+- [Programadores y la saturación mental de la continua actualización](https://cronicasfreelancer.com/2024/03/18/programadores-y-la-saturacion-mental-de-la-continua-actualizacion/)
+- [Review del teclado Logitech MX Mechanical Mini. ¿Ideal para programar?](https://cronicasfreelancer.com/2024/01/22/logitech-mx-mini-review/)
 
 
 ## Contact me
