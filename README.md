@@ -12,7 +12,7 @@ Since then I've been working mostly with PHP ✨ and its ecosystem (WordPress, Z
 
 Even though I consider myself a back-end developer 🧌, I like to code in front-end technologies too 👨‍🎨. Nowadays I enjoy coding in React and Vue.js. Many of my repositories in GitHub are front-end projects.
 
-Currently I continue learning 📚 about JavaScript and all its ecosystem focusing in Node.js and Typescript.
+Currently I'm working mostly with Node.js, TypeScript, NestJS and React.
 
 ## Jobs
 I worked as a senior developer, tech lead, project leader and project manager. Even though I can manage projects I rather prefer to be close to my team and help them building apps contributing with my technical knowledge 🧠.
