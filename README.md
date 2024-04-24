@@ -35,5 +35,5 @@ I work as a freelancer 👨‍💻. So if you have a problem, if no one else can
 - ✍️ I like to write and I have three blogs. Even though I'm confident with my english level, I prefer to write in spanish.
 - ☕ I like good coffee.
 - 📺 I love The Simpsons and I'm always saying quotes from the TV show.
-- 🇦🇷 I'm argentinean but I'm currently living in Uruguay 🇺🇾 and I've lived in The Netherlands 🇳🇱.
+- I'm argentinean but I'm currently living in Uruguay 🧉 and I've lived in The Netherlands 🌷.
 - ❤️ I'm married to the most beautiful woman in the world.
