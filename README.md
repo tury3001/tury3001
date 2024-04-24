@@ -31,7 +31,7 @@ I work as a freelancer 👨‍💻. So if you have a problem, if no one else can
 - Contact me on [LinkedIn](https://www.linkedin.com/in/alejandro-de-luca-web-developer/)
 
 ## Other things about me
-- 🇸🇪 I'm a Boca Juniors fan.
+- 💙💛💙 I'm a Boca Juniors fan.
 - ✍️ I like to write and I have three blogs. Even though I'm confident with my english level, I prefer to write in spanish.
 - ☕ I like good coffee.
 - 📺 I love The Simpsons and I'm always saying quotes from the TV show.
