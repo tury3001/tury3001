@@ -10,9 +10,9 @@ At the university I discovered a wide range of technologies like Assmbler 8086, 
 
 Since then I've been working mostly with PHP ✨ and its ecosystem (WordPress, Zend Framework, Laravel, OpenCart and PrestaShop), but in the last years I set aside PHP and moved to Node.js ✨ and all the JavaScript world 🌏.
 
-Even though I consider myself a back-end developer 🧌, I like to code in front-end technologies too 👨‍🎨. Nowadays I enjoy coding in React and Vue.js. Many of my repositories in GitHub are front-end projects.
+Even though I consider myself a back-end developer 🧌, I like to code in front-end technologies too 👨‍🎨. Nowadays I enjoy coding in React and Vue.js. In fact, many of my repositories in GitHub are front-end projects.
 
-Currently I'm working mostly with Node.js, TypeScript, NestJS and React.
+Currently I work mostly with Node.js, TypeScript, NestJS and React.
 
 ## Jobs
 I worked as a senior developer, tech lead, project leader and project manager. Even though I can manage projects I rather prefer to be close to my team and help them building apps contributing with my technical knowledge 🧠.
@@ -27,7 +27,8 @@ I work as a freelancer 👨‍💻. So if you have a problem, if no one else can
 
 
 ## Contact me
-I'm on [Twitter](https://twitter.com/aadeluca_) (or should I say X?) 
+- I'm on [Twitter](https://twitter.com/aadeluca_) (or should I say X?)
+- Contact me on [LinkedIn](https://www.linkedin.com/in/alejandro-de-luca-web-developer/)
 
 ## Other things about me
 - ⚽ I'm a Boca Juniors fan.
