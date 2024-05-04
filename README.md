@@ -1,8 +1,8 @@
 ## Hello there 👋
 
-My name is Alejandro, but everybody call me *Tury*. I'm a web developer and I work mostly with Node.js, PHP, and its related ecosystem. I was born in Buenos Aires, Argentina but I'm currently based in Uruguay.
+My name is Alejandro, but everybody call me *Tury*. I'm a web developer and I work mostly with Node.js, PHP, and its related ecosystems. I was born in Buenos Aires, Argentina but I'm currently based in Uruguay.
 
-I've worked as a senior developer, tech lead, and project manager. Now, I work as a freelancer 👨‍💻. So if you have a problem, if no one else can help, and if you can find me, maybe you can hire... me.
+I've worked as a senior developer, tech lead, and project manager. Currently, I work as a freelancer 👨‍💻. So if you have a problem, if no one else can help, and if you can find me, maybe you can hire... me. 
 
 ## Technologies
 
@@ -45,7 +45,7 @@ I like to write and I have three blogs. Even though I'm confident with my englis
 
 ## Other things (not) less relevant about me
 - 💙💛💙 I'm a Boca Juniors fan.
-- ☕ I like good coffee.
+- ☕ I'm a coffee lover.
 - I'm a big fan of Isaac Asimov and sci-fi stuff.
 - 📺 I love The Simpsons and I'm always repeating quotes from the show.
 - ❤️ I'm married to the most beautiful woman in the world.
