@@ -2,7 +2,10 @@
 
 My name is Alejandro, but everybody call me *Tury*. I'm a web developer and I work mostly with Node.js, PHP, and its related ecosystems. I was born in Buenos Aires, Argentina but I'm currently based in Uruguay.
 
-I've worked as a senior developer, tech lead, and project manager. Currently, I work as a freelancer 👨‍💻. So if you have a problem, if no one else can help, and if you can find me, maybe you can hire... me. 
+I've worked as a senior developer, tech lead, and project manager. Currently, I work as a freelancer 👨‍💻. So if you have a problem, if no one else can help, and if you can find me, maybe you can hire... me.
+
+Check my [portfolio](https://alejandro-de-luca-portfolio.vercel.app/) to know more about my knowledge and experience.
+
 
 ## Technologies
 
