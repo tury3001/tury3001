@@ -4,7 +4,7 @@ My name is Alejandro, but everybody call me *Tury*. I'm a web developer and I wo
 
 I've worked as a senior developer, tech lead, and project manager. Currently, I work as a freelancer 👨‍💻. So if you have a problem, if no one else can help, and if you can find me, maybe you can hire... me.
 
-Check my [portfolio](https://alejandro-de-luca-portfolio.vercel.app/) to know more about my knowledge and experience.
+Check out my [portfolio](https://alejandro-de-luca-portfolio.vercel.app/) to know more about my knowledge and experience.
 
 
 ## Technologies
@@ -37,10 +37,10 @@ I consider myself a back-end developer but I also work with front-end technologi
 
 I like to write and I have three blogs. Even though I'm confident with my english level, I prefer to write in spanish.
 
+- [Cursos muy largos para aprender a programar, ¿por qué es mejor evitarlos?](https://cronicasfreelancer.com/2024/05/26/cursos-muy-largos-de-programacion/)
 - [Pruebas automatizadas: la verdadera necesidad](https://cronicasfreelancer.com/2024/05/01/pruebas-automatizadas-la-verdadera-necesidad/)
 - [Reseña del libro Node.js Design Patterns, de Casciaro y Mammino](https://cronicasfreelancer.com/2024/03/26/node-js-design-patterns-resena/)
 - [Programadores y la saturación mental de la continua actualización](https://cronicasfreelancer.com/2024/03/18/programadores-y-la-saturacion-mental-de-la-continua-actualizacion/)
-- [Review del teclado Logitech MX Mechanical Mini. ¿Ideal para programar?](https://cronicasfreelancer.com/2024/01/22/logitech-mx-mini-review/)
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-de-luca-web-developer/)
