@@ -33,9 +33,14 @@ I consider myself a back-end developer but I also work with front-end technologi
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## My last blog posts about programming (in spanish)
+## Work
 
-I like to write and I have three blogs. Even though I'm confident with my english level, I prefer to write in spanish.
+I've worked as a Sr web developer, Tech Lead and PM. Currently, I work as a freelance web developer.
+
+
+## My last blog posts about programming (in Spanish)
+
+I like to write and I have three blogs. Even though I'm confident with my English level, I prefer to write in Spanish.
 
 - [Cursos muy largos para aprender a programar, ¿por qué es mejor evitarlos?](https://cronicasfreelancer.com/2024/05/26/cursos-muy-largos-de-programacion/)
 - [Pruebas automatizadas: la verdadera necesidad](https://cronicasfreelancer.com/2024/05/01/pruebas-automatizadas-la-verdadera-necesidad/)
