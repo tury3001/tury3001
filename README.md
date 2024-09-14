@@ -42,10 +42,11 @@ I've worked as a Sr web developer, Tech Lead and PM. Currently, I work as a free
 
 I like to write and I have three blogs. Even though I'm confident with my English level, I prefer to write in Spanish.
 
+- [Reseña del libro Web Application Security, de Andrew Hoffman](https://cronicasfreelancer.com/2024/09/11/web-application-security-review-libro/)
 - [Cursos muy largos para aprender a programar, ¿por qué es mejor evitarlos?](https://cronicasfreelancer.com/2024/05/26/cursos-muy-largos-de-programacion/)
 - [Pruebas automatizadas: la verdadera necesidad](https://cronicasfreelancer.com/2024/05/01/pruebas-automatizadas-la-verdadera-necesidad/)
 - [Reseña del libro Node.js Design Patterns, de Casciaro y Mammino](https://cronicasfreelancer.com/2024/03/26/node-js-design-patterns-resena/)
-- [Programadores y la saturación mental de la continua actualización](https://cronicasfreelancer.com/2024/03/18/programadores-y-la-saturacion-mental-de-la-continua-actualizacion/)
+
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-de-luca-web-developer/)
