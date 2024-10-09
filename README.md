@@ -42,10 +42,9 @@ I've worked as a Sr web developer, Tech Lead and PM. Currently, I work as a free
 
 I like to write and I have three blogs. Even though I'm confident with my English level, I prefer to write in Spanish.
 
-- [Reseña del libro Web Application Security, de Andrew Hoffman](https://cronicasfreelancer.com/2024/09/11/web-application-security-review-libro/)
-- [Cursos muy largos para aprender a programar, ¿por qué es mejor evitarlos?](https://cronicasfreelancer.com/2024/05/26/cursos-muy-largos-de-programacion/)
-- [Pruebas automatizadas: la verdadera necesidad](https://cronicasfreelancer.com/2024/05/01/pruebas-automatizadas-la-verdadera-necesidad/)
-- [Reseña del libro Node.js Design Patterns, de Casciaro y Mammino](https://cronicasfreelancer.com/2024/03/26/node-js-design-patterns-resena/)
+- [Cómo Obsidian me está convirtiendo en un mejor programador](https://cronicasfreelancer.com/2024/10/06/obsidian-mejor-programador/)
+- [Roadmap.sh: lleva registro de tus avances en programación](https://cronicasfreelancer.com/2024/10/02/roadmaps-sh-programacion/)
+- [Mi experiencia con PrestaShop y por qué te recomiendo que lo evites](https://cronicasfreelancer.com/2024/10/01/mi-experiencia-con-prestashop/) 
 
 
 ## Contact me
