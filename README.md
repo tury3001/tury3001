@@ -37,16 +37,6 @@ I consider myself a back-end developer but I also work with front-end technologi
 
 I've worked as a Sr web developer, Tech Lead and PM. Currently, I work as a freelance web developer.
 
-
-## My last blog posts about programming (in Spanish)
-
-I like to write and I have three blogs. Even though I'm confident with my English level, I prefer to write in Spanish.
-
-- [Cómo Obsidian me está convirtiendo en un mejor programador](https://cronicasfreelancer.com/2024/10/06/obsidian-mejor-programador/)
-- [Roadmap.sh: lleva registro de tus avances en programación](https://cronicasfreelancer.com/2024/10/02/roadmaps-sh-programacion/)
-- [Mi experiencia con PrestaShop y por qué te recomiendo que lo evites](https://cronicasfreelancer.com/2024/10/01/mi-experiencia-con-prestashop/) 
-
-
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-de-luca-web-developer/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/aadeluca_)
